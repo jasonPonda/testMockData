@@ -12,6 +12,13 @@ const mockData = [
         "email": "charrild1@dion.ne.jp",
         "age": 35
       }, 
+      {
+        "id": 3,
+        "first_name": "Amby",
+        "last_name": "Emmer",
+        "email": "aemmer2@buzzfeed.com",
+        "age": 67
+    }
 ]
 
 export default mockData
